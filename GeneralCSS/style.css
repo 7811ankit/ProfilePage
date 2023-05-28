@@ -1,0 +1,155 @@
+.container
+{
+    /* border: 5px solid black; */
+}
+.row{
+    /* border: 2px solid red; */
+    height: 40px;
+    border-radius: 15px;
+    background-color: #33FF33;
+    padding-left: 30px;
+    box-sizing: border-box;
+}
+#row-2{
+    height: 100px;
+    background-color: #DAF7A6 ;
+    margin-top: 10px;
+    text-align: center;
+    padding: 30px;
+    box-sizing: border-box;
+}
+#wavingHand{
+    color: black;
+}
+#row-3{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+    height: 500px;
+    /* border: 1px solid red; */
+    background-color: black;
+    box-sizing: border-box;
+}
+#row-3-left-col{
+    padding-left: 0%;
+      /* border: 1px solid red ; */
+      background-color: black;
+}
+img{
+   max-width: 100%;
+   height: 480px;
+}
+#row-3-right-col
+{
+    color: white;
+    /* border: 1px solid red; */
+}
+#row-4{
+    background-color: black;
+    margin-top: 30px;
+    height: 800px;
+}
+#row-4-col-12{
+    text-align: center;
+    padding-top: 40;
+    color: greenyellow;
+    /* border: 1px solid blue; */
+}
+#icon{
+    font-size: 15px;
+}
+li{
+    color: white;
+    margin-top: 20px;
+}
+span{
+    color: yellow;
+}
+#row-5{
+    background-color: black;
+    margin-top: 10px;
+    height: 600px;
+}
+#row-5-col-1{
+    margin-top: 40px;
+    color: greenyellow;
+    text-align: center;
+}
+#row-6{
+    height: 100px;
+    text-align: center;
+    background-color: white;
+}
+#row-6-col-12{
+
+    margin-top: 40px;
+   color: greenyellow;
+   align-self: center;
+}
+#row-7{
+    margin-top: 10px;
+    width: 50%;
+    height: 500px;
+    margin-left: 25%;
+    background-color: black;
+}
+#row-7-col-12-1st{
+    padding-top: 30px;
+    height: 70px;
+    /* border: 1px solid blue; */
+}
+#name{
+    width: 350px;
+    border-radius: 10px;
+}
+#row-7-col-12-2nd{
+    height: 50px;
+    /* border: 1px solid blue; */
+}
+#email{
+    width: 350px;
+    border-radius: 10px;
+}
+#row-7-col-12-3rd{
+    height: 50px;
+    /* border: 1px solid blue; */
+}
+#number{
+    width: 250px;
+    border-radius: 10px;
+}
+#row-7-col-12-4th{
+    height: 100px;
+    /* border: 1px solid blue; */
+}
+#message{
+    width: 350px;
+    height: 100px;
+    border-radius: 10px;
+}
+#submit{
+    border-radius: 10px;
+    background-color: aquamarine;
+    margin-left: 150px;
+}
+label
+{
+    color: white;
+}
+#row-8{
+    margin-top: 10px;
+     height: 80px;
+}
+#span5{
+    color: black;
+}
+#row-8-col{
+    padding-top: 20px;
+}
+
+
+
+
+
+
+
